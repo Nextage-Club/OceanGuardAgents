@@ -14,10 +14,11 @@ Este projeto tem como objetivo planejar e gerar respostas abrangentes e factualm
 
 1. Clone o repositório para sua máquina local.
 2. Instale as dependências listadas no arquivo `requirements.txt`.
-3. Configure as variáveis de ambiente no arquivo `.env` (exemplo de conteúdo do `.env`):
+3. Crie fora da pasta python e configure as variáveis de ambiente no arquivo `.env` (exemplo de conteúdo do `.env`):
     ```
-    GOOGLE_API_KEY=your_google_api_key_here
+    GOOGLE_API_KEY="your_google_api_key_here"
     ```
+    O arquivo .env foi removido do projeto por questões de segurança envolvendo a chave API.
 4. Execute o arquivo `main.py` para iniciar a interação com o usuário.
 
 ### Passos Detalhados
