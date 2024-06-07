@@ -1,5 +1,9 @@
 # Projeto de Planejamento e Resposta para Problemas de Saúde do Oceano
 
+## Integrantes
+- José Guilherme. RM557274
+- Yuri Lopes. RM555522
+
 ## Descrição do Projeto
 
 Este projeto tem como objetivo planejar e gerar respostas abrangentes e factualmente precisas para problemas de saúde do oceano reportados por usuários. Utilizamos uma equipe de agentes configurados com o modelo Gemini Pro da Google para coletar informações, escrever respostas detalhadas e editar para garantir clareza e alinhamento com padrões organizacionais.
